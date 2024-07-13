@@ -1,5 +1,6 @@
 {
   "redirects": [
+    { "source": "/", "destination": "https://ltya.top", "permanent": false },
     { "source": "/avatar", "destination": "https://gravatar.ltya.top/avatar/5af06b461740fb2bd7467b8561399703?s=500", "permanent": false }
   ]
 }
