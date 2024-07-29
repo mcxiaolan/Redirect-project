@@ -2,6 +2,8 @@
   "redirects": [
     { "source": "/", "destination": "https://ltya.top", "permanent": false },
     { "source": "/avatar/:match*", "destination": "https://gravatar.ltya.top/avatar/5af06b461740fb2bd7467b8561399703?s=:match*", "permanent": false },
-    { "source": "/QQavatar/:match*/:match*", "destination": "https://thirdqq.qlogo.cn/g?b=qq&nk=:match*&s=:match*", "permanent": false }
+    { "source": "/QQavatar/:match*/640", "destination": "https://thirdqq.qlogo.cn/g?b=qq&nk=:match*&s=640", "permanent": false },
+    { "source": "/QQavatar/:match*/100", "destination": "https://thirdqq.qlogo.cn/g?b=qq&nk=:match*&s=100", "permanent": false },
+    { "source": "/QQavatar/:match*/40", "destination": "https://thirdqq.qlogo.cn/g?b=qq&nk=:match*&s=40", "permanent": false }
   ]
 }
