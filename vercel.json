@@ -1,6 +1,7 @@
 {
   "redirects": [
     { "source": "/", "destination": "https://ltya.top", "permanent": false },
-    { "source": "/avatar/:match*", "destination": "https://gravatar.ltya.top/avatar/5af06b461740fb2bd7467b8561399703?s=:match*", "permanent": false }
+    { "source": "/avatar/:match*", "destination": "https://gravatar.ltya.top/avatar/5af06b461740fb2bd7467b8561399703?s=:match*", "permanent": false },
+    { "source": "/QQavatar/:match*/:match1*", "destination": "https://thirdqq.qlogo.cn/g?b=qq&nk=:match*&s=:match1*", "permanent": false }
   ]
 }
